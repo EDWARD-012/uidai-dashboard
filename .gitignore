@@ -1,0 +1,7 @@
+data_raw/
+data_processed/
+data_rejected/
+*.csv
+venv/
+__pycache__/
+db.sqlite3
